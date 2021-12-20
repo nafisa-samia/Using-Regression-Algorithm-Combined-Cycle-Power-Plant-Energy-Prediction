@@ -2,7 +2,7 @@
 
 **Problem Statement:**
 
-We will design a predictive model to predict full-load power output of Combined Cycle Power Plant Dataset from UCI website and evaluate the performance of the model.
+We will design a predictive model to predict full-load power output of Combined Cycle Power Plant Dataset from UCI machine learning repository and evaluate the performance of the model.
 
 Includes Linear Regression, its assumptions and regularization. Also Random Forest Regressor model
 
