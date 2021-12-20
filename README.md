@@ -1,4 +1,4 @@
-# Linear-Regression-Model
+# Combined-Cycle-Power-Plant-Energy-Prediction
 
 **Problem Statement:**
 
