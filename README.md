@@ -22,7 +22,7 @@ Ambient Pressure (AP) in the range 992.89-1033.30 milibar
 
 Relative Humidity (RH) in the range 25.56% to 100.16%
 
-Exhaust Vacuum (V) in teh range 25.36-81.56 cm Hg
+Exhaust Vacuum (V) in the range 25.36-81.56 cm Hg
 
 Target is:
 Net hourly electrical energy output (PE) 420.26-495.76 MW
