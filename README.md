@@ -8,11 +8,11 @@ Includes Linear Regression, its assumptions and regularization. Also Random Fore
 
 https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant
 
-**About Data Set**
+**About Data Set:**
 
 The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP) of the plant.
 
-**Attribute Info**
+**Attribute Info:**
 
 Features consist of hourly average ambient variables:
 
@@ -27,7 +27,7 @@ Exhaust Vacuum (V) in the range 25.36-81.56 cm Hg
 Target is:
 Net hourly electrical energy output (PE) 420.26-495.76 MW
 
-**Conclusion**
+**Conclusion:**
 
 * We check for the linearity of our dataset using residual plots, and found our dataset amlost linear
 * We use Shapiro-Wilk and Anderson-Darling test, to check whether our dataset is normally distributed or not
