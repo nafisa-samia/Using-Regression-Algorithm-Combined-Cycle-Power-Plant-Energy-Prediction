@@ -27,7 +27,7 @@ Net hourly electrical energy output (PE) 420.26-495.76 MW
 **Conclusion:**
 
 * We check for the linearity of our dataset using residual plots, and found our dataset almost linear
-* We use Shapiro-Wilk and Anderson-Darling test, to check whether our dataset is normally distributed or not
+* We use Shapiro-Wilk and Anderson-Darling test to check whether our dataset is normally distributed or not
 * Check for the multicolinearity and try to improve our dataset so that there is no effect of multicolinearity
 * We also test for homoscedasticity and it's present in the dataset
 * Using Durbin-Watson test, we check for the autocorrelation of our dataset
